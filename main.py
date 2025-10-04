@@ -7,15 +7,18 @@ st.write("Phone: 018-2837151")
 st.write("LinkedIn: linkedin.com/in/zainab-radzi-a1b1b2368") 
 
 st.subheader("Education") 
-st.write("BIT. in Information Technology, Universiti Malaysia Kelantan, 2025")
+st.write("- BIT. in Information Technology, Universiti Malaysia Kelantan, 2025")
+st.write("- STPM, Sekolah Menengah Setapak, 2022")
+st.write("- SPM, Sekolah Menengah Taman Melati, 2019")
 
 st.subheader("Work Experience")
-st.write("Software Intern, TechCorp, 2024") 
-st.write("- Built dashboards using Python and Streamlit")
+st.write("STEM Program, UMK, 2024") 
+st.write("- Built dashboards using Python ")
 
 st.subheader("Skills")
 st.write("- Python")
 st.write("- Data Visualization")
 
 st.subheader("Projects")
-st.write("Portfolio Website: Built with Streamlit to showcase my work.")
+st.write("Research of Final Year Project.")
+st.write("- Technology for Early Education:Advantages and Challenges")
