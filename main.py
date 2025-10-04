@@ -1,13 +1,13 @@
 import streamlit as st
 
-st.title("Your Name's Resume") 
+st.title("zainab's Resume") 
 st.header("Contact Information")
-st.write("Email: your.email@example.com")
-st.write("Phone: (123) 456-7890")
+st.write("Email: moonlight@g.com")
+st.write("Phone: 018-2837151")
 st.write("LinkedIn: linkedin.com/in/yourprofile") 
 
 st.header("Education") 
-st.write("B.Sc. in Computer Science, Example University, 2025")
+st.write("BIT. in Information Technology, Universiti Malaysia Kelantan, 2025")
 
 st.header("Work Experience")
 st.write("Software Intern, TechCorp, 2024") 
